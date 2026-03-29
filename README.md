@@ -125,9 +125,10 @@ java Main
 
 ## 👨‍💻 Author
 
-**Your Name**  
-B.Tech CSE | VIT  
-GitHub: [@your_username](https://github.com/your_username)
+**Ishan Gupta** 
+**24BAI10654**
+B.Tech CSE (AI & ML) | VIT Bhopal 
+GitHub: [@Ishangupta9990](https://github.com/Ishangupta9990)
 
 ---
 
