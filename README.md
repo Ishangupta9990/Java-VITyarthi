@@ -1,3 +1,7 @@
+# Programming in Java Evaluated Course Project
+Name - Ishan Gupta
+Registration No: 24BAI10654
+
 # 💰 Student Expense Tracker
 
 A console-based Java application that helps students track daily expenses, set a monthly budget, and visualize their spending with a live budget energy bar.
